@@ -1,8 +1,15 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2d803e60-630f-11ea-95d4-5389e652c6c3",
+  "do_objectID": "7C003C2F-5178-48BA-8856-07891F6AC6E0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,49 +22,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 60,
+    "width": 71,
+    "x": 402,
+    "y": 196
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "5F35330E-576B-4C7F-86E4-86AE7E5B6B4E"
-    },
-    {
-      "class": "artboard",
-      "id": "4380CB86-F712-47DA-B7A2-494399818A2C"
-    },
-    {
-      "class": "artboard",
-      "id": "7C003C2F-5178-48BA-8856-07891F6AC6E0"
+      "class": "rectangle",
+      "id": "76F21CCA-E5DD-4F03-AE40-CE6EB870364F"
     }
   ],
-  "name": "Page 1",
+  "name": "Artboard Copy 2",
   "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -92,7 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "404AAF7A-AD92-44D9-8618-3399741375CE",
+    "do_objectID": "DB1728C2-2F1A-4811-BAFE-1A3E211D6C41",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -106,7 +111,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
