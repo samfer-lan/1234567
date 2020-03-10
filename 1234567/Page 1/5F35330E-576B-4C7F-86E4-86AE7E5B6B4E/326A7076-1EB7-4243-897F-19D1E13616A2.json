@@ -17,7 +17,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 41,
+    "height": 54,
     "width": 54,
     "x": 17,
     "y": 6
@@ -173,9 +173,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.3457900828378029,
+          "green": 0.3457900828378029,
+          "red": 0.4823652626811594
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
